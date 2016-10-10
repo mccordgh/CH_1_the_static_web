@@ -1,0 +1,34 @@
+
+
+
+/* CLASS SELECTORS */
+
+.number_text {
+	font-size: 1em;
+	padding: 10px;
+	width: 200px
+	margin: 0 auto;
+}
+
+.number_slider {
+	padding: 15px 10px 10px;
+	width: 150px;
+	margin: 0 auto;
+}
+
+
+
+
+
+
+
+/* ID SELECTORS */
+
+#wrapper {
+	margin: 50px auto;
+	width: 250px;
+	height: 150px;
+	border: 2px solid #444;
+	padding: 50px;
+}
+
